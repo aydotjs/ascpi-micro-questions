@@ -5,3 +5,4 @@
 # Which microscope is best used to observe a virus and tye internal structure of a cell
 # In AST, as the antibiotics diffuses away into the media, what happens the concentration 
 # When performing indole test, what must the substrate contain?
+# What's the difference between Chocolate agar and Thayer Martin Agar
