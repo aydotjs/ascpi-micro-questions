@@ -4,3 +4,4 @@
 # Acquisition of a gene called MecA gene that codes for a protein called penicillin binding protein (PBP2A) 
 # Electron microscopy 
 # The concentration of an antibiotic decreases as it diffuses away from the disk in AST
+# In indole test, substrate must contain tryptophan 
