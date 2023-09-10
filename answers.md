@@ -3,3 +3,4 @@
 # Selective plating on media in a microaerophilic condition, incubate at 42°C for 24-48hrs
 # Acquisition of a gene called MecA gene that codes for a protein called penicillin binding protein (PBP2A) 
 # Electron microscopy 
+# The concentration of an antibiotic decreases as it diffuses away from the disk in AST
