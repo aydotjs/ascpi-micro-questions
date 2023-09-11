@@ -9,3 +9,4 @@
 # What's the organism that exhibits satellite phenomenon around Staphylococcus aureus 
 # what's penumonia 
 # What test can help you differentiate Pseudomonas aeruginosa from other members of the pseudomonas family 
+# What are the major biochemical features of Shigella spp
