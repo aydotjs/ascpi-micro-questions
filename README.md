@@ -8,3 +8,4 @@
 # What's the difference between Chocolate agar and Thayer Martin Agar
 # What's the organism that exhibits satellite phenomenon around Staphylococcus aureus 
 # what's penumonia 
+# What test can help you differentiate Pseudomonas aeruginosa from other members of the pseudomonas family 
