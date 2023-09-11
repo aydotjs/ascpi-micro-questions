@@ -7,3 +7,4 @@
 # In indole test, substrate must contain tryptophan 
 # Thayer Martin Agar is a selective media for Neisseria gonorrhoea. although it contains blood and Nad, it contains antibiotics which inhibits growth of Gram positive and other gram negatives too
 # Haemophilus influenza exhibits the satellite phenomenon around staphylococcus aureus 
+# Pneumonia is the infection and inflammation of the airsacs 
