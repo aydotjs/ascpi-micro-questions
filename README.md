@@ -7,3 +7,4 @@
 # When performing indole test, what must the substrate contain?
 # What's the difference between Chocolate agar and Thayer Martin Agar
 # What's the organism that exhibits satellite phenomenon around Staphylococcus aureus 
+# what's penumonia 
