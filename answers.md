@@ -9,3 +9,4 @@
 # Haemophilus influenza exhibits the satellite phenomenon around staphylococcus aureus 
 # Pneumonia is the infection and inflammation of the airsacs 
 # Pseudomonas aeruginosa grows at 42°C which is inhibitory for other members 
+# Shigella spp are urease negative, oxidase negative, non motile 
